@@ -1,0 +1,1 @@
+from .dbconfig import pg_config
